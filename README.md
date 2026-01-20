@@ -1,2 +1,4 @@
-# -Agent-TextToSQL
-项目工作进展
+# 基于Agent的TextToSQL
+db_utils和log_utils负责与MySQL数据库连接
+test_to_sql_tools包含4个agent工具
+text_to_sql_agent 创建agent
